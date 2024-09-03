@@ -1,0 +1,10 @@
+.imagebox{
+   height: 150px; 
+   overflow: hidden;
+   background-size: cover;
+}
+
+.imagebox img{
+   width:100px;
+   height:100px;
+}

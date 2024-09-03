@@ -1,0 +1,33 @@
+.summaryTable h6{
+    font-size:13px;
+    color: var(--text1);
+}
+
+.summaryTable p{
+    font-size:14px;
+    font-weight:500;
+    color: var(--text1);
+}
+
+label{
+    font-size: 13px!important;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.inputAddress{
+    font-size: 14px!important;
+    margin-bottom:5px;
+    letter-spacing: 1px;
+    padding:10px 10px!important;
+    border:1px solid #dfe1e1!important;
+}
+.inputAddress:hover{
+    border-bottom:2px solid #17d1d1!important;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.summaryimage{
+    width: 100%;
+}

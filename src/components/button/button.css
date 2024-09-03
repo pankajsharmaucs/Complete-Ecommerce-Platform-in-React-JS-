@@ -1,0 +1,185 @@
+.btn1 {
+    width: 100%;
+    color: #fff;
+    background: linear-gradient(33deg, #65c5d5, #65c5d5);
+    /* box-shadow:0px 2px 1px #096c5e; */
+    border-radius: 5px;
+    padding: 5px 5px;
+    border: none;
+    transition: .2s;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    color: #fff;
+    background: linear-gradient(33deg, #65c5d5, #65c5d5);
+
+}
+
+.btn1:active {
+    box-shadow: 0px 0px 0px #c02f0a;
+    transform: scale(0.95);
+}
+
+
+/* =================================================== */
+.btn2 {
+    color: #fff;
+    background-color: #26d0ec;
+    border-color: #26d0ec;
+}
+
+.btn3 {
+    color: #fd8080;
+    background-color: #fcffff;
+    border-color: #fd8080;
+}
+
+.btn3:hover {
+    color: #fff;
+    background-color: #fd8080;
+    border-color: #fd8080;
+}
+
+/* ================================================================== */
+.btn4 {
+    width: 100%;
+    color: #fff;
+    background: linear-gradient(33deg, #2dbf89, #2dbf89);
+    /* box-shadow:0px 2px 1px #096c5e; */
+    border-radius: 5px;
+    padding: 9px 5px;
+    border: none;
+    transition: .2s;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn4:hover {
+    color: #fff;
+    background: linear-gradient(33deg, #21b47e, #21b47e);
+
+}
+
+.btn4:active {
+    box-shadow: 0px 0px 0px #c02f0a;
+    transform: scale(0.95);
+}
+
+
+
+/* ================================================================== */
+.btn5 {
+    width: 100%;
+    color: #fff;
+    background: #ff7676ed;
+    /* box-shadow:0px 2px 1px #096c5e; */
+    border-radius: 5px;
+    padding: 9px 5px;
+    border: none;
+    transition: .2s;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn5:hover {
+    color: #fff;
+    background: #f16565ed;
+
+}
+
+.btn5:active {
+    box-shadow: 0px 0px 0px #c02f0a;
+    transform: scale(0.95);
+}
+
+
+
+/* ================================================================== */
+.btn6 {
+    width: 100%;
+    color: #fff;
+    background: #09a46a;
+    /* box-shadow:0px 2px 1px #096c5e; */
+    border-radius: 5px;
+    padding: 5px 5px;
+    border: none;
+    transition: .2s;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.btn6:hover {
+    color: #fff;
+    background: #038a58;
+
+}
+
+.btn6:active {
+    box-shadow: 0px 0px 0px #038a58;
+    transform: scale(0.95);
+}
+
+
+.btn7 {
+    width: 100%;
+    color: #fff;
+    background: #fb6262;
+    /* box-shadow:0px 2px 1px #096c5e; */
+    border-radius: 5px;
+    padding: 5px 5px;
+    border: none;
+    transition: .2s;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.btn7:hover {
+    color: #fff;
+    background: #b62e2e;
+
+}
+
+.btn7:active {
+    box-shadow: 0px 0px 0px #b33434;
+    transform: scale(0.95);
+}
+
+
+
+.btn8 {
+    width: 100%;
+    color: #fff;
+    background: #6281fb;
+    border-radius: 5px;
+    padding: 5px 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    transition: .2s;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.btn8:hover {
+    color: #fff;
+    background: #4465eb;
+
+}
+
+.btn8:active {
+    box-shadow: 0px 0px 0px #4465eb;
+    transform: scale(0.95);
+}
+
+
+
+/* ======backButton1====================== */
+.backButton1 {
+    width: 30px;
+}
+
+.backButton1Box:hover {
+    color: #fd8080;
+}

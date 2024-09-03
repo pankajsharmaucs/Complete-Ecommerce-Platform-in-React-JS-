@@ -1,0 +1,14 @@
+.preLoaderBox {
+    width: 100%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.preLoaderBox img {
+    width: 250px;
+    width: 250px;
+}

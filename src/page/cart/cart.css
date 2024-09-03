@@ -1,0 +1,60 @@
+.carBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #fff;
+    overflow: hidden;
+    padding: 3%;
+    box-shadow: 0px 13px 20px #bdbdbdf5;
+}
+
+.carBox img {
+    width: 100%;
+}
+
+.QuantityBox {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+.option {
+    width: 30px;
+    height: 30px;
+    background: #f4f8f9;
+    font-size: 23px;
+    border-radius: 50%;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+
+.option:hover {
+    background: #d6dadb;
+}
+
+.option:active {
+    background: #d6dadb;
+    transform: scale(0.95);
+}
+
+.qtyInput {
+    width: 30px;
+    height: 32px;
+    border: none;
+    text-align: center;
+    margin: 5px;
+    outline: none;
+}
+
+.price_summary_box h6 {
+    font-size: 13px;
+}
+
+.price_summary_box .grandTotal {
+    background-color: #c2ebfb !important;
+    color: #197da4;
+}
